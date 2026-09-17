@@ -294,17 +294,27 @@ I also gained experience in documenting technical findings in a structured way, 
 
 The repository contains screenshots and evidence collected during the assessment.
 
-### Evidence Files
 
-| Evidence       | Description                       |
-| -------------- | --------------------------------- |
-| `whois.png`    | WHOIS lookup results              |
-| `whatweb.png`  | WhatWeb technology identification |
-| `nslookup.png` | DNS resolution results            |
-| `curl.png`     | HTTP response headers             |
-| `wafw00f.png`  | WAF detection results             |
-| `dnsrecon.png` | DNS enumeration results           |
-| `zenmap.png`   | Zenmap network scan and topology  |
+### Whois
+![Whois Output](Evidences/whois.png)
+
+### WhatWeb
+![WhatWeb Output](Evidences/whatweb.png)
+
+### Nslookup
+![Nslookup Output](Evidences/nslookup.png)
+
+### Curl
+![Curl Output](Evidences/curl.png)
+
+### Wafw00f
+![Wafw00f Output](Evidences/wafw00f.png)
+
+### DNSRecon
+![DNSRecon Output](Evidences/dnsrecon.png)
+
+### Zenmap
+![Zenmap Scan](Evidences/zenmap.png)
 
 > Evidence images are available in the [`Evidences`](./Evidences/) folder.
 
