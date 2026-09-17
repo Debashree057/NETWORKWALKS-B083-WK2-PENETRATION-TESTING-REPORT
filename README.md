@@ -314,7 +314,9 @@ The repository contains screenshots and evidence collected during the assessment
 ![DNSRecon Output](Evidences/dnsrecon.png)
 
 ### Zenmap
-![Zenmap Scan](Evidences/zenmap.png)
+![Zenmap Scan](Evidences/zenmap1.png)
+
+![Zenmap Scan](Evidences/zenmap2.png)
 
 > Evidence images are available in the [`Evidences`](./Evidences/) folder.
 
