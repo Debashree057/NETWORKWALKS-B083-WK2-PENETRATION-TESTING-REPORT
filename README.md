@@ -1,7 +1,7 @@
 # NETWORKWALKS-B083-WK2-PENETRATION-TESTING-REPORT
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-darkgreen?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-grey?style=for-the-badge)
 ![Network](https://img.shields.io/badge/Network-orange?style=for-the-badge)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-red?style=for-the-badge)
 ![Virtualization](https://img.shields.io/badge/Virtualization-purple?style=for-the-badge)
@@ -44,7 +44,6 @@ This assessment focused on basic penetration testing activities involving inform
 6. [Recommendations](#6-recommendations)
 7. [Conclusion](#7-conclusion)
 8. [Evidences Collected](#8-evidences-collected)
-9. [Permission](#9-permission)
 
 ---
 
@@ -308,16 +307,6 @@ The repository contains screenshots and evidence collected during the assessment
 | `zenmap.png`   | Zenmap network scan and topology  |
 
 > Evidence images are available in the [`Evidences`](./Evidences/) folder.
-
----
-
-# 9. Permission
-
-The assessment was performed with the required authorization for the intended educational security testing activities.
-
-The permission letter is included in the repository.
-
-**[View Permission Letter](./Permission-Letter/permission-letter.pdf)**
 
 ---
 
